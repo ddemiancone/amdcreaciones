@@ -14,11 +14,11 @@ window.onload = function() {
 	const arrowWP = document.querySelector('.arrow-wp')
 
 	ig.onclick = function() {
-		window.open ('https://www.instagram.com/amd.impresionesdigitales/')
+		window.open ('https://www.instagram.com/amd.creaciones/')
 	}
 
 	fb.onclick = function() {
-		window.open ('https://www.facebook.com/AMD.impresiones')
+		window.open ('https://www.facebook.com/amd.creaciones')
 	}
 
 	wp.onclick = function() {
