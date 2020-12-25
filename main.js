@@ -13,15 +13,15 @@ window.onload = function() {
 	const arrowFB = document.querySelector('.arrow-fb')
 	const arrowWP = document.querySelector('.arrow-wp')
 
-	ig.onclick = function() {
+	ig.ondblclick = function() {
 		window.open ('https://www.instagram.com/amd.creaciones/')
 	}
 
-	fb.onclick = function() {
+	fb.ondblclick = function() {
 		window.open ('https://www.facebook.com/amd.creaciones')
 	}
 
-	wp.onclick = function() {
+	wp.ondblclick = function() {
 		window.open ('https://api.whatsapp.com/send/?phone=5491163070429&text&app_absent=0')
 	}
 
